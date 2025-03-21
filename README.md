@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h2 align="left">Gustavo Costa Ferreira 🪸</h2>
 
 ###
-
-<br clear="both">
 
 <h6 align="left">Desenvolvedor Full Stack 🦀</h6>
 
@@ -13,8 +9,6 @@
 <p align="left">🌊 Bem vindo, ao meu perfil 🐠<br><br>Me chamo Gustavo Costa Ferreira, sou de São Paulo e tenho uma grande paixão pelo mar e pela praia — sempre que posso, estou surfando. Além disso, sou apaixonado por tecnologia e estou sempre em busca de novos desafios. 🪸<br><br>Atualmente, estou me graduando em Tecnologia da Informação pela UNIVESP, com foco em desenvolvimento de sistemas e ciência de dados<br>Estou constantemente explorando o mundo da programação e me dedicando a aprimorar minhas habilidades para criar soluções inovadora🐚</p>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/" target="_blank">
@@ -33,19 +27,13 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center"></h1>
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Stack e Tecnologias 🦀</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
@@ -65,11 +53,9 @@
 
 ###
 
-<h3 align="left">📊Estáticas do perfil</h3>
+<h3 align="left">📊Minhas Estatísticas</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=GustavoCFerreira&locale=pt-br&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph"  />
