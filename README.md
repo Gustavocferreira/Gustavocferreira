@@ -1,12 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Gustavo Costa Ferreira 🪸</h1>
-
-###
-
-<br clear="both">
-
-<h5 align="center"></h5>
+<h2 align="left">Gustavo Costa Ferreira 🪸</h2>
 
 ###
 
@@ -68,12 +62,6 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h6 align="center"></h6>
 
 ###
 
