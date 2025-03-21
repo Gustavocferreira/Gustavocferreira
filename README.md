@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌊 Bem vindo, ao meu perfil 🐠<br><br>Me chamo Gustavo Costa Ferreira, sou de São Paulo e tenho uma grande paixão pelo mar e pela praia — sempre que posso, estou surfando. Além disso, sou apaixonado por tecnologia e estou sempre em busca de novos desafios. 🪸<br><br>Atualmente, estou me graduando em Tecnologia da Informação pela UNIVESP, com foco em desenvolvimento de sistemas e ciência de dados<br>Estou constantemente explorando o mundo da programação e me dedicando a aprimorar minhas habilidades para criar soluções inovadora🐚</p>
+<p align="left">🌊 Bem vindo, ao meu perfil 🐠<br><br>Me chamo Gustavo Costa Ferreira, sou de São Paulo e sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Além disso, tenho uma grande paixão pelo mar e pela praia — sempre que posso, estou surfando. 🪸<br><br>Atualmente, estou me graduando em Tecnologia da Informação pela UNIVESP, com foco em desenvolvimento de sistemas e ciência de dados.<br>Estou constantemente explorando o mundo da programação e me dedicando a aprimorar minhas habilidades para criar soluções inovadoras e resolver os maiores desáfios que eu encontrar em minha jornada 🐚</p>
 
 ###
 
