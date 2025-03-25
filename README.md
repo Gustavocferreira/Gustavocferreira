@@ -31,43 +31,37 @@
 
 ###
 
-<h3 align="left">Stack e Tecnologias 🦀</h3>
+<h3 align="left">⚓ Stack e Tecnologias</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="32" alt="spring logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="32" alt="python logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="32" alt="pytorch logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="32" alt="tensorflow logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="32" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
-<h3 align="left">📊Minhas Estatísticas</h3>
+<h3 align="left">📊 Minhas Estatísticas</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCFerreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&custom_title=Tecnologias%20favoritas" height="140" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCFerreira&theme=nightowl&hide_border=true&hide_title=false&area=true&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCFerreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&custom_title=Tecnologias%20%E2%AD%90" height="155" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCFerreira&theme=nightowl" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCFerreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&custom_title=Tecnologias%20favoritas" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCFerreira&theme=nightowl&hide_border=false&hide_title=false&area=false&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
