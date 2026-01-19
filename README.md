@@ -1,5 +1,5 @@
 # Gustavo Costa Ferreira 👨‍💻  
-Estagiário em Desenvolvimento full-stack & UX/UI  
+Estagiário em Desenvolvimento full-stack & DevOps  
 Instituto do Legislativo Paulista – Assembleia Legislativa de São Paulo (Alesp)
 
 Atuo na modernização do SAPL (Sistema de Apoio ao Processo Legislativo) e portais de transparência, com foco em interfaces acessíveis (WCAG/eMAG), conformidade LGPD e padrões de interoperabilidade governamental (e-Ping).
