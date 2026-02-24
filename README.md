@@ -1,4 +1,3 @@
-O Gemini disse
 <div align="center">
 <h1>Hi there, I'm Gustavo Costa Ferreira 👋</h1>
 <h3>Full-stack Developer & DevOps</h3>
