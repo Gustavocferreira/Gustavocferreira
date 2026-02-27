@@ -21,7 +21,7 @@ I'm a **Full-Stack Developer & DevOps Engineer** currently working at the **Inst
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python, go, ts, react, nextjs, figma, mysql, postgres, docker" alt="Tech stack icons: Python, Go, TypeScript, React, Next.js, Figma, MySQL, PostgreSQL, Docker" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,figma,mysql,postgres,docker" alt="Tech stack icons: Python, Go, TypeScript, React, Next.js, Figma, MySQL, PostgreSQL, Docker" />
 </p>
 
 
