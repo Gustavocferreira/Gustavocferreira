@@ -34,4 +34,4 @@ I'm a **Full-Stack Developer & DevOps Engineer** currently working at the **Inst
 
 📫 **Get in Touch**  
 
- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/) - [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavocostaferreiracontato@gmail.com)
+ [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/)   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavocostaferreiracontato@gmail.com)
