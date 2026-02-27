@@ -17,14 +17,14 @@ I'm a **Full-Stack Developer & DevOps Engineer** currently working at the **Inst
 - 🚀 **Automation & CI/CD:** Streamlining deployments for consistency and reliability.  
 - 🎨 **Inclusive Design:** Bridging UX, UI, and engineering through design systems.
 
----
+
 
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,ts,java,mysql,docker,react,nextjs,figma" alt="Tech stack icons: Python, Go, TypeScript, Java, MySQL, Docker, React, Next.js, Figma" />
 </p>
 
----
+
 
 ### 🌍 Professional Highlights
 - 💡 **Public Sector Modernization:** Driving the digital transformation of legislative systems and infrastructure.  
