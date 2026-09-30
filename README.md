@@ -16,7 +16,7 @@ I'm building my technical foundation in **cloud, infrastructure automation and A
 
 My work also involves digital public-sector platforms, where accessibility, security, privacy and interoperability are essential requirements.
 
-## 02 / Engineering direction
+## Engineering direction
 
 These are my areas of study and technical interest.
 
