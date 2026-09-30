@@ -8,7 +8,7 @@
   <a href="https://github.com/Gustavocferreira?tab=repositories">Repositories</a>
 </p>
 
-## 01 / Profile
+## Profile
 
 I'm **Gustavo Costa Ferreira**, an Information Technology undergraduate at **Univesp**, working at the **Instituto do Legislativo Paulista (Alesp)**.
 
@@ -26,14 +26,14 @@ These are my areas of study and technical interest.
 | **AI & Data Engineering** | How can data pipelines and AI integrations make automation useful and maintainable? |
 | **Software & Systems Engineering** | How can APIs and distributed components work together through clear interfaces? |
 
-## 03 / Learning priorities
+## Learning priorities
 
 - **Infrastructure** — cloud fundamentals, infrastructure as code and containerization.
 - **Delivery** — version control, CI/CD and operational automation.
 - **Data & AI** — data workflows, LLM integration and practical automation.
 - **Systems** — observability, resilience and interoperability.
 
-## 04 / Design principles
+## Design principles
 
 **Make it reproducible.** Version changes and document how systems are built and operated.
 
