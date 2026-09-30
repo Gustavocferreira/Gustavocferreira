@@ -1,37 +1,33 @@
 <div align="center">
 
 # 👋 Hi there, I'm **Gustavo Costa Ferreira**
-### 💻 Full-Stack Developer & DevOps
+### ☁️ Cloud, DevOps & AI Engineer
 
 </div>
 
-I'm a **Full-Stack Developer & DevOps Engineer** currently working at the **Instituto do Legislativo Paulista (Alesp)**, where I lead key initiatives to modernize the **SAPL** and several government transparency portals. I’m passionate about building secure, accessible, and inclusive public-facing applications that follow standards such as **WCAG**, **eMAG**, **LGPD**, and **e-Ping**.  
-🎓 Pursuing a **B.Sc. in Information Technology at Univesp**, I focus on creating scalable and interoperable solutions that bridge engineering, accessibility, and automation.
+I'm a **Cloud, DevOps & AI Engineer** currently working at the **Instituto do Legislativo Paulista (Alesp)**, contributing to the modernization of **SAPL** and government digital platforms. My work focuses on **cloud infrastructure, automation, data engineering, and secure public-facing systems**, following standards such as **WCAG**, **eMAG**, **LGPD**, and **e-Ping**.  
+🎓 Pursuing a **B.Sc. in Information Technology at Univesp**, with a focus on scalable architectures, cloud computing, automation, and AI-driven solutions.
 
 ---
 
-### ⚙️ Core Values
-- ♿ **Accessibility-First:** Designing digital experiences that include everyone.  
-- 🔒 **Privacy & Security:** Strict compliance with LGPD and data protection practices.  
-- 🧩 **Clean Architecture:** Writing maintainable, scalable, and modular code.  
-- 🚀 **Automation & CI/CD:** Streamlining deployments for consistency and reliability.  
-- 🎨 **Inclusive Design:** Bridging UX, UI, and engineering through design systems.
-
-
+### ⚙️ Engineering Principles
+- ☁️ **Cloud-Native:** Designing scalable, resilient, and distributed architectures.  
+- 🔒 **Security & Privacy:** Building systems aligned with LGPD and security best practices.  
+- 🧩 **Clean Architecture:** Developing maintainable, modular, and interoperable systems.  
+- 🚀 **DevOps & CI/CD:** Automating infrastructure, testing, deployment, and operations.  
+- 🤖 **AI & Automation:** Applying AI, APIs, and data pipelines to automate workflows.
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nextjs,figma,mysql,postgres,docker" alt="Tech stack icons: Python, Go, TypeScript, Next.js, PostgreSQL, Docker" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,aws,azure,terraform,kubernetes,docker,githubactions,postgres,pytorch" alt="Python, Go, TypeScript, AWS, Azure, Terraform, Kubernetes, Docker, GitHub Actions, PostgreSQL, PyTorch" />
 </p>
 
-
-
 ### 🌍 Professional Highlights
-- 💡 **Public Sector Modernization:** Driving the digital transformation of legislative systems and infrastructure.  
-- 🌐 **Accessible Experiences:** Delivering user interfaces that meet strict accessibility and transparency standards.
+- 💡 **Public Sector Engineering:** Modernizing legislative systems, data workflows, and digital infrastructure.  
+- ⚙️ **Automation & Integration:** Building reliable solutions around APIs, data pipelines, cloud, and automation.
 
 ---
 
 📫 **Get in Touch**  
 
- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/)   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavocostaferreiracontato@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavocostaferreiracontato@gmail.com)
