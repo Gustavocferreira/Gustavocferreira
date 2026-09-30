@@ -1,139 +1,55 @@
-<div align="center">
-
-<img src="./assets/header.svg" width="100%" alt="Gustavo Costa Ferreira — Cloud, DevOps and AI Engineering" />
-
-<br>
-
-### Cloud Engineering · DevOps · AI · Automation
-
-**Designing scalable systems, automating infrastructure and exploring AI-driven engineering.**
-
-<br>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/)
-&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavocostaferreiracontato@gmail.com)
-
-</div>
-
----
-
-## `> engineering_profile`
-
-I'm **Gustavo Costa Ferreira**, an Information Technology undergraduate at **Univesp** working at the **Instituto do Legislativo Paulista (Alesp)**.
-
-My engineering interests are centered around **Cloud Computing, DevOps, Infrastructure Automation, Data Engineering and Artificial Intelligence**, with an emphasis on building scalable, maintainable and interoperable systems.
-
-My work also involves digital public-sector platforms where **accessibility, security, privacy and interoperability** are essential requirements.
-
----
-
-## `> technology_stack`
-
-### ☁️ Cloud & Platform Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,githubactions" />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Gustavo Costa Ferreira — Cloud · DevOps · AI Engineering. Infrastructure · Automation · Data · Distributed Systems." />
 </p>
-
-`Cloud Architecture` · `Containers` · `Infrastructure as Code` · `CI/CD` · `Automation`
-
-### ⚙️ Software Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,ts,git,github" />
-</p>
-
-`Backend Engineering` · `APIs` · `Automation` · `Distributed Systems`
-
-### 🤖 AI & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,postgres,mysql" />
-</p>
-
-`AI Engineering` · `Data Pipelines` · `LLM Integration` · `Data Automation`
-
----
-
-## `> current_focus`
-
-```yaml
-engineering:
-  cloud:
-    - architecture
-    - infrastructure_as_code
-    - containerization
-
-  devops:
-    - ci_cd
-    - automation
-    - observability
-
-  ai:
-    - llm_integration
-    - intelligent_automation
-    - data_engineering
-
-  principles:
-    - scalability
-    - security
-    - interoperability
-    - accessibility
-```
-
----
-
-## `> engineering_principles`
-
-**Cloud-Native Architecture**  
-Design systems around scalability, resilience and automation.
-
-**Infrastructure as Code**  
-Treat infrastructure as versioned, reproducible software.
-
-**Automation First**  
-Reduce repetitive operational work through code and pipelines.
-
-**Security & Privacy by Design**  
-Build systems with security and LGPD requirements considered from architecture onward.
-
-**AI as Engineering Infrastructure**  
-Use AI where it improves workflows, automation, analysis or software capabilities — not simply as a feature.
-
----
-
-## `> github_activity`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-stats-light.svg">
-    <img alt="GitHub engineering activity" src="./assets/profile-stats-dark.svg">
-  </picture>
+  <a href="https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:gustavocostaferreiracontato@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Gustavocferreira?tab=repositories">Repositories</a>
 </p>
 
+## 01 / Profile
+
+I'm **Gustavo Costa Ferreira**, an Information Technology undergraduate at **Univesp**, working at the **Instituto do Legislativo Paulista (Alesp)**.
+
+I'm building my technical foundation in **cloud, infrastructure automation and AI**, with an interest in how software, data and distributed systems fit together. My goal is to build systems that are maintainable, scalable and interoperable.
+
+My work also involves digital public-sector platforms, where accessibility, security, privacy and interoperability are essential requirements.
+
+## 02 / Engineering direction
+
+These are my areas of study and technical interest.
+
+| Area | Questions I'm exploring |
+| :--- | :--- |
+| **Cloud & DevOps** | How can infrastructure become reproducible, deployments reliable and operations observable? |
+| **AI & Data Engineering** | How can data pipelines and AI integrations make automation useful and maintainable? |
+| **Software & Systems Engineering** | How can APIs and distributed components work together through clear interfaces? |
+
+## 03 / Learning priorities
+
+- **Infrastructure** — cloud fundamentals, infrastructure as code and containerization.
+- **Delivery** — version control, CI/CD and operational automation.
+- **Data & AI** — data workflows, LLM integration and practical automation.
+- **Systems** — observability, resilience and interoperability.
+
+## 04 / Design principles
+
+**Make it reproducible.** Version changes and document how systems are built and operated.
+
+**Keep it understandable.** Prefer clear interfaces and maintainable solutions; introduce complexity when the problem justifies it.
+
+**Automate with purpose.** Reduce repetitive work while keeping outcomes traceable and human review possible.
+
+**Design for people.** Treat accessibility, security and privacy as requirements from the start.
+
 ---
 
-## `> system_status`
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Learning through implementation. Cloud / Software / Data / Systems." />
+</p>
 
-```text
-[ CLOUD ]        ███████████████████░   Building
-[ DEVOPS ]       ███████████████████░   Automating
-[ AI ]           ██████████████████░░   Exploring
-[ ENGINEERING ]  ████████████████████   Learning continuously
-```
-
----
-
-<div align="center">
-
-### `> connect --with gustavo`
-
-**Cloud · DevOps · AI · Software Engineering**
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/)
-&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gustavocostaferreiracontato@gmail.com)
-
-</div>
+<p align="center">
+  Open to exchanging ideas about cloud, automation and engineering.<br />
+  <a href="https://www.linkedin.com/in/gustavo-costa-ferreira-b3124b325/">Let's connect on LinkedIn</a>
+</p>

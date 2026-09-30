@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" fill="none" role="img" aria-labelledby="title">
+<title id="title">Learning through implementation. Cloud / Software / Data / Systems.</title>
+<rect x=".5" y=".5" width="1199" height="95" rx="12" fill="#101C2B" stroke="#2A3C52"/>
+<path d="M32 33V63" stroke="#83D7C0" stroke-width="3"/>
+<text x="52" y="55" fill="#DCE7F2" font-family="sans-serif" font-size="22">Learning through implementation.</text>
+<text x="1166" y="54" text-anchor="end" fill="#A8BCCF" font-family="monospace" font-size="14">CLOUD / SOFTWARE / DATA / SYSTEMS</text>
+</svg>

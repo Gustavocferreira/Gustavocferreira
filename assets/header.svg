@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Gustavo Costa Ferreira — Cloud · DevOps · AI Engineering</title>
+<desc id="desc">An understated infrastructure console with a connected network. Infrastructure, automation, data and distributed systems.</desc>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#1A2B40" stroke-opacity=".45"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#101E30"/><stop offset="1" stop-color="#0A111D"/></linearGradient>
+</defs>
+<style>
+.flow { stroke-dasharray: 5 180; animation: flow 12s linear infinite; }
+.pulse { animation: pulse 6s ease-in-out infinite; }
+@keyframes flow { to { stroke-dashoffset: -370; } }
+@keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .flow,.pulse { animation: none; } }
+</style>
+<rect x=".5" y=".5" width="1199" height="439" rx="18" fill="url(#bg)" stroke="#2A3C52"/>
+<rect x="740" y="65" width="420" height="310" fill="url(#grid)"/>
+<path d="M32 61H1168" stroke="#293C51"/>
+<circle cx="35" cy="32" r="4" fill="#72C9B0"/>
+<text x="51" y="37" fill="#A8BCCF" font-family="monospace" font-size="13" letter-spacing="2">GCF / ENGINEERING NOTEBOOK</text>
+<text x="1158" y="37" text-anchor="end" fill="#91A6BC" font-family="monospace" font-size="12">CLOUD · SOFTWARE · SYSTEMS</text>
+<rect x="48" y="113" width="29" height="3" rx="1.5" fill="#72C9B0"/>
+<text x="91" y="119" fill="#A8BCCF" font-family="monospace" font-size="13" letter-spacing="2">PROFILE / 01</text>
+<text x="46" y="179" fill="#F0F5FA" font-family="sans-serif" font-weight="700" font-size="38" letter-spacing=".4">GUSTAVO COSTA</text>
+<text x="46" y="226" fill="#F0F5FA" font-family="sans-serif" font-weight="700" font-size="38" letter-spacing=".4">FERREIRA</text>
+<text x="48" y="275" fill="#83D7C0" font-family="sans-serif" font-size="25">Cloud · DevOps · AI Engineering</text>
+<text x="48" y="315" fill="#B5C4D5" font-family="sans-serif" font-size="16">Infrastructure · Automation · Data · Distributed Systems</text>
+<g stroke="#3B556F" stroke-width="1.5">
+<path d="M791 154H900V218H1029M900 218V302H1071M900 218H790V302"/>
+<path d="M1029 218V122H1090"/>
+</g>
+<path class="flow" d="M791 154H900V218H1029V122H1090" stroke="#83D7C0" stroke-width="2"/>
+<g fill="#132539" stroke="#4C6B84">
+<rect x="757" y="131" width="68" height="46" rx="8"/>
+<rect x="866" y="195" width="68" height="46" rx="8"/>
+<rect x="995" y="195" width="68" height="46" rx="8"/>
+<rect x="756" y="279" width="68" height="46" rx="8"/>
+<rect x="1037" y="279" width="68" height="46" rx="8"/>
+<rect x="1056" y="99" width="68" height="46" rx="8"/>
+</g>
+<g fill="#BBD0DF" font-family="monospace" font-size="12" text-anchor="middle">
+<text x="791" y="159">BUILD</text><text x="900" y="223">SHIP</text><text x="1029" y="223">RUN</text>
+<text x="790" y="307">DATA</text><text x="1071" y="307">AI</text><text x="1090" y="127">TRACE</text>
+</g>
+<circle class="pulse" cx="900" cy="177" r="4" fill="#83D7C0"/>
+<path d="M32 373H1168" stroke="#293C51"/>
+<text x="48" y="408" fill="#A8BCCF" font-family="monospace" font-size="13">LEARN / IMPLEMENT / REFINE</text>
+<text x="1152" y="408" text-anchor="end" fill="#91A6BC" font-family="monospace" font-size="12">An evolving engineering practice</text>
+</svg>
